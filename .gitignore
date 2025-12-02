@@ -1,0 +1,37 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug/Release folders
+Debug/
+Release/
+build/
+cmake-build-*/
+
+# VSCode
+.vscode/
+
+# clangd, ccls
+.clangd/
+.cache/
+compile_commands.json
+
+# Temporary files
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
