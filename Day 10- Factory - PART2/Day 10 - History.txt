@@ -1,0 +1,42 @@
+Technical note – history of the Day 10 Part 2 solution
+
+
+The original idea for solving Day 10 Part 2 was implemented in C++ using Eigen.
+Conceptually, that solution was already correct: the mathematical model and the
+equations were right.
+
+However, the implementation relied on Eigen’s linear algebra routines over real
+numbers (floating-point), while the problem itself was strictly integer-based.
+
+
+Because of that mismatch, the solver produced small floating-point inaccuracies.
+Those tiny errors were enough to break the exact integer result required by the
+puzzle, so even though the logic was sound, the final answers were not accepted.
+
+
+To work around this, I tried porting the same approach to OR-Tools, aiming to
+use a proper integer-oriented solver. The idea was to keep the same model but
+let OR-Tools handle the integer constraints directly.
+
+In practice, though, running OR-Tools from C++ on Windows turned out to be
+problematic in this environment: there were limitations with the library and
+the API setup on this system, and I couldn’t get a clean, working C++ build
+with OR-Tools.
+
+
+As a result, I decided to port the exact same solution from C++ to Python, this
+time using the appropriate tools on the Python side.
+
+Once translated line by line and wired into the Python ecosystem, the approach
+worked exactly as intended and produced the correct result for Day 10 Part 2.
+
+
+In this repository, I am still including the Eigen-based C++ version.
+
+Even though it suffers from the floating-point issue, it represents the last
+practically correct C++ implementation that actually compiles on this setup and
+reflects the intended mathematical solution.
+
+The fully correct, working implementation is the Python version, which is
+effectively the same algorithm adapted to an environment where the solver and
+type system match the problem’s integer nature.
