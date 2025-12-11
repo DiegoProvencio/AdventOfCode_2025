@@ -8,5 +8,6 @@
           - --animation=snow
           - --title="Advent of Code 2025 — C++"
           - --language-sorting=cpp
-          - --text-color="#7AB7FF"
+          - --text-color=#7AB7FF
+          - --outline-color=#000000
           - --auto-add-tiles-to-git=add 
