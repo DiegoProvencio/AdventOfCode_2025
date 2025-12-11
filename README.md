@@ -7,6 +7,42 @@ This repo is part of my learning journey, and I’m here to improve one puzzle a
 ---
 
 <!-- AOC TILES BEGIN -->
+<h1 align="center">
+  2025 - 21 ⭐ - C++
+</h1>
+<a href="Day 1- Secret Entrance - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/01.gif" width="161px">
+</a>
+<a href="Day 2- Gift Shop - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/02.gif" width="161px">
+</a>
+<a href="Day 3- Lobby - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/03.gif" width="161px">
+</a>
+<a href="Day 4- PrintingDepartment - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/04.gif" width="161px">
+</a>
+<a href="Day 5- Cafeteria - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/05.gif" width="161px">
+</a>
+<a href="Day 6- TrashCompactor - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/06.gif" width="161px">
+</a>
+<a href="Day 7- Laboratories - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/07.gif" width="161px">
+</a>
+<a href="Day 8- Playground - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/08.gif" width="161px">
+</a>
+<a href="Day 9- MovieTheater - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/09.gif" width="161px">
+</a>
+<a href="Day 10- Factory - PART2/Day 10- Factory - PART2.cpp">
+  <img src=".aoc_tiles/tiles/2025/10.gif" width="161px">
+</a>
+<a href="Day 11- Reactor.cpp">
+  <img src=".aoc_tiles/tiles/2025/11.gif" width="161px">
+</a>
 <!-- AOC TILES END -->
 
 ---
