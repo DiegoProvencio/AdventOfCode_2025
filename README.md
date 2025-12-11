@@ -6,6 +6,11 @@ This repo is part of my learning journey, and I’m here to improve one puzzle a
 
 ---
 
+<!-- AOC TILES BEGIN -->
+<!-- AOC TILES END -->
+
+---
+
 ## 📁 Current Structure
 
 - Day 1 - Secret Entrance.cpp  
