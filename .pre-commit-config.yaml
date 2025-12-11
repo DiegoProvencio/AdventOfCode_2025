@@ -4,8 +4,10 @@ repos:
     hooks:
       - id: aoc-tiles
         args:
-          - --auto-add-tiles-to-git=amend
+          - --title="🎄 AOC 2025 — Progress" 
+          - --auto-add-tiles-to-git=add 
           - --language-sorting=cpp
           - --overwrite-year=2025
           - --theme=aoc
+          - --accent-color="#7ab7ff"
           - --animation=snow
