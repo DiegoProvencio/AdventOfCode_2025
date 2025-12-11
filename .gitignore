@@ -35,3 +35,7 @@ compile_commands.json
 # Windows
 Thumbs.db
 desktop.ini
+
+# AoC tiles
+.aoc_tiles/*
+!.aoc_tiles/tiles/
