@@ -7,9 +7,9 @@ This repo is part of my learning journey, and I’m here to improve one puzzle a
 ---
 
 <!-- AOC TILES BEGIN -->
-<h2 align="center">
+<h1 align="center">
   2025 - 24 ⭐ - C++
-</h2>
+</h1>
 <a href="Day 1- Secret Entrance/part1.cpp">
   <img src=".aoc_tiles/tiles/2025/01.gif" width="161px">
 </a>
@@ -61,7 +61,7 @@ failed attempts. Along the way I picked up and practiced things like:
 - Graph traversal (DFS / BFS)
 - Turning messy problem statements into something solvable
 
-Nothing fancy here — just solutions, experiments, and the learning that came with them.
+Nothing fancy here just solutions, experiments, and the learning that came with them.
 
 ---
 
