@@ -1,8 +1,10 @@
 # 🎄 Advent of Code 2025 – Solutions
 
-This repository contains my solutions to the **Advent of Code 2025** challenges.  
-I'm still fairly new to competitive programming, so please don’t judge too harshly.  
-This repo is part of my learning journey, and I’m here to improve one puzzle at a time.
+<p align="center">
+  This repository contains my solutions to the <b>Advent of Code 2025</b> challenges.<br>
+  I'm still fairly new to competitive programming, so please don’t judge too harshly.<br>
+  This repo is part of my learning journey, and I’m here to improve one puzzle at a time.
+</p>
 
 ---
 
@@ -50,24 +52,17 @@ This repo is part of my learning journey, and I’m here to improve one puzzle a
 
 ---
 
-## 📁 Current Structure
+## 🎯 Why this repo exists
 
-- Day 1 - Secret Entrance.cpp  
-- Day 1 - Secret Entrance - PART2.cpp  
-- Day 2 - Gift Shop.cpp  
-- Day 2 - Gift Shop - PART2.cpp  
+Advent of Code 2025 has been a lot of fun.
 
-Later, the structure will be organized into folders per day:
+This repository is a collection of solutions, experiments, and small victories
+after getting stuck more times than I’d like to admit. Along the way, I got to
+practice ideas like DSU, dynamic programming, graph traversal, and careful
+problem modeling.
 
-Day01/
-  - part1.cpp
-  - part2.cpp
-
-Day02/
-  - part1.cpp
-  - part2.cpp
-  - 
-...
+More than polished answers, this repo reflects the process of learning,
+debugging, and improving one puzzle at a time.
 
 ---
 
