@@ -10,4 +10,5 @@
           - --language-sorting=cpp
           - --text-color=#7AB7FF
           - --outline-color=#000000
+          - --overwrite-year=2025
           - --auto-add-tiles-to-git=add 
