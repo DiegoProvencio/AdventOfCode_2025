@@ -1,17 +1,15 @@
 # 🎄 Advent of Code 2025 – Solutions
 
-<p align="center">
-  This repository contains my solutions to the <b>Advent of Code 2025</b> challenges.<br>
-  I'm still fairly new to competitive programming, so please don’t judge too harshly.<br>
-  This repo is part of my learning journey, and I’m here to improve one puzzle at a time.
-</p>
+This repository contains my solutions to the <b>Advent of Code 2025</b> challenges.<br>
+I'm still fairly new to competitive programming, so please don’t judge too harshly.<br>
+This repo is part of my learning journey, and I’m here to improve one puzzle at a time.
 
 ---
 
 <!-- AOC TILES BEGIN -->
-<h1 align="center">
+<h2 align="center">
   2025 - 24 ⭐ - C++
-</h1>
+</h2>
 <a href="Day 1- Secret Entrance/part1.cpp">
   <img src=".aoc_tiles/tiles/2025/01.gif" width="161px">
 </a>
@@ -54,15 +52,16 @@
 
 ## 🎯 Why this repo exists
 
-Advent of Code 2025 has been a lot of fun.
+Advent of Code 2025 has been genuinely fun.
 
-This repository is a collection of solutions, experiments, and small victories
-after getting stuck more times than I’d like to admit. Along the way, I got to
-practice ideas like DSU, dynamic programming, graph traversal, and careful
-problem modeling.
+Some problems went smoothly, others didn’t, and a few only worked after multiple
+failed attempts. Along the way I picked up and practiced things like:
+- Disjoint Set Union (DSU)
+- Dynamic programming
+- Graph traversal (DFS / BFS)
+- Turning messy problem statements into something solvable
 
-More than polished answers, this repo reflects the process of learning,
-debugging, and improving one puzzle at a time.
+Nothing fancy here — just solutions, experiments, and the learning that came with them.
 
 ---
 
