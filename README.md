@@ -1,6 +1,6 @@
 # 🎄 Advent of Code 2025 – Solutions
 
-This repository contains my solutions to the **Advent of Code 2025** challenges. I'm still fairly new to competitive programming, so please don’t judge too harshly. 
+This repository contains my solutions to the **Advent of Code 2025** challenges. I'm still fairly new to competitive programming, so please don’t judge too harshly.<br>
 This repo is part of my learning journey, and I’m here to improve one puzzle at a time.
 
 ---
