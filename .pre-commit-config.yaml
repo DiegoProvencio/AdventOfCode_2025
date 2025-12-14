@@ -6,10 +6,7 @@ repos:
         args:
           - --theme=aoc
           - --animation=snow
-          - --title="Advent of Code 2025 — C++"
           - --language-sorting=cpp
-          - --text-color=#32C42F
-          - --outline-color=#32C42F
-          - --tile-width-px=210px
+          - --tile-width-px=203px
           - --overwrite-year=2025
           - --auto-add-tiles-to-git=add
