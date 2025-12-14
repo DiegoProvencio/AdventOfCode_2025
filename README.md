@@ -10,40 +10,40 @@ This repo is part of my learning journey, and I’m here to improve one puzzle a
   2025 - 24 ⭐ - C++
 </h1>
 <a href="Day 01- Secret Entrance/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/01.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/01.gif" width="270px">
 </a>
 <a href="Day 02- Gift Shop/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/02.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/02.gif" width="270px">
 </a>
 <a href="Day 03- Lobby/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/03.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/03.gif" width="270px">
 </a>
 <a href="Day 04- PrintingDepartment/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/04.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/04.gif" width="270px">
 </a>
 <a href="Day 05- Cafeteria/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/05.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/05.gif" width="270px">
 </a>
 <a href="Day 06- TrashCompactor/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/06.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/06.gif" width="270px">
 </a>
 <a href="Day 07- Laboratories/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/07.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/07.gif" width="270px">
 </a>
 <a href="Day 08- Playground/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/08.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/08.gif" width="270px">
 </a>
 <a href="Day 09- MovieTheater/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/09.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/09.gif" width="270px">
 </a>
 <a href="Day 10- Factory/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/10.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/10.gif" width="270px">
 </a>
 <a href="Day 11- Reactor/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/11.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/11.gif" width="270px">
 </a>
 <a href="Day 12- ChristmasTreeFarm/part1.cpp">
-  <img src=".aoc_tiles/tiles/2025/12.gif" width="161px">
+  <img src=".aoc_tiles/tiles/2025/12.gif" width="270px">
 </a>
 <!-- AOC TILES END -->
 
