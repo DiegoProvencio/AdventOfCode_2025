@@ -9,7 +9,6 @@ repos:
           - --title="Advent of Code 2025 — C++"
           - --language-sorting=cpp
           - --text-color=#32C42F
-          - --outline-color=#000000
           - --tile-width-px=270px
           - --overwrite-year=2025
           - --auto-add-tiles-to-git=add
